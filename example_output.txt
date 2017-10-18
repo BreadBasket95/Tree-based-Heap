@@ -1,0 +1,20 @@
+***Testing small Heap #1 Insert
+Inorder traversal: 11 12 3 1 7 15 6 43 9 22 57 4 73 17 37 13
+
+***Testing small Heap #2 Insert
+Inorder traversal: a e m b w d v s z c h g x f t q
+
+***Testing small Heap #3 Insert
+Inorder traversal: 11 CSE 43 EE 15 CPE dog 13 cat MSU
+
+
+*Deleting Heap #1, numbers listed in chronological order
+9 73 7 6 57 43 4 37 3 22 17 15 13 12 11 1
+
+*Deleting Heap #2
+z x w v t s q m h g f e d c b a
+
+*Deleting Heap #3
+dog cat MSU EE CSE CPE 43 15 13 11
+
+Press any key to continue . . .
